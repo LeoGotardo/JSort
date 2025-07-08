@@ -1,5 +1,4 @@
 # JSort
-# Análise de Desempenho dos Algoritmos de Ordenação
 
 ## 1. Tabelas de Desempenho dos Algoritmos Básicos
 
